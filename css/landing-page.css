@@ -17,7 +17,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .intro-header {
   padding-top: 50px;
   padding-bottom: 50px;
-  text-align: center;
+  text-align:center;
   color: #f8f8f8;
   background: url(../img/intro-bg-flixMe.png) no-repeat center center;
   background-size: cover;
@@ -45,9 +45,9 @@ body, h1, h2, h3, h4, h5, h6 {
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
 
-.intro-social-buttons i {
+/*.intro-social-buttons i {
   font-size: 80%;
-}
+}*/
 
 @media(max-width:767px) {
   .intro-message {
@@ -150,3 +150,4 @@ footer {
 p.copyright {
   margin: 15px 0 0;
 }
+
